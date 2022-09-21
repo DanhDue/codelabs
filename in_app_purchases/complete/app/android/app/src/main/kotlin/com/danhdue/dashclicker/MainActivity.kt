@@ -1,4 +1,4 @@
-package com.example.dashclicker
+package com.danhdue.dashclicker
 
 import io.flutter.embedding.android.FlutterActivity
 
